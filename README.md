@@ -1,2 +1,1 @@
-# Web-Landing-Page-
-Explore Your Dream Destination!!
+# Landing-Page
